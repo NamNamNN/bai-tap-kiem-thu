@@ -1,3 +1,5 @@
+package com.example.kiemthuphanmem;
+
 public class NumberUtils {
 
     // Phương thức đếm các số chẵn trong mảng
